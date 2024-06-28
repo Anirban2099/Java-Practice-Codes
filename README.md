@@ -1,2 +1,2 @@
-# Java-Practice-
-Basics and DSA covered here :)
+# Java-Practice-Codes
+Arrays , Functions and Patterns 
