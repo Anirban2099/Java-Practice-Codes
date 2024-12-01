@@ -11,7 +11,7 @@ public  class Q19 {
             System.out.println("You are eligible to vote");
             }
             
-        else{
+        else {
             System.out.println("Not eligiblento vote");
         }
 
