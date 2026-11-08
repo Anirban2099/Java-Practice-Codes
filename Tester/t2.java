@@ -26,7 +26,7 @@ public class t2 {
         else {
             System.out.println("Invalid data input!");
         }
-
+        
     }
     
 }
